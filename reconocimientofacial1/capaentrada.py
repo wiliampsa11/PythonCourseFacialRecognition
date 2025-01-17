@@ -1,4 +1,4 @@
-#Capa de entrada
+#Capa de entrada Activar primero esto, después la de entrenamiento y por fin la de recfacial
 import cv2
 import os
 import imutils
